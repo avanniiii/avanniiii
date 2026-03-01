@@ -82,10 +82,11 @@ class Avani:
 
 ## 🌟 Featured Projects
 
-### 🩺 [SkinCare AI — Skin Cancer Detection Web App](#)
-> Full-stack AI application for real-time skin cancer detection  
-- Built end-to-end ML pipeline: preprocessing → TensorFlow inference → deployment  
-- React frontend with Gradio backend, deployed on Vercel  
+
+### 📄 [Smart Resume Analyzer — NLP Job Matching System](#)
+> ATS alignment tool for intelligent resume scoring  
+- TF-IDF + Cosine Similarity for keyword matching  
+- Automated skill gap analysis and real-time match scoring
 
 ### ✋ [Motionmatics — Gesture-Based AI Problem Solver](#)
 > Real-time gesture recognition powered by Gemini AI  
@@ -93,10 +94,13 @@ class Avani:
 - Integrated Gemini API for intelligent response generation  
 - Interactive Streamlit interface for live output  
 
-### 📄 [Smart Resume Analyzer — NLP Job Matching System](#)
-> ATS alignment tool for intelligent resume scoring  
-- TF-IDF + Cosine Similarity for keyword matching  
-- Automated skill gap analysis and real-time match scoring  
+### 🩺 [SkinCare AI — Skin Cancer Detection Web App](#)
+> Full-stack AI application for real-time skin cancer detection  
+- Built end-to-end ML pipeline: preprocessing → TensorFlow inference → deployment  
+- React frontend with Gradio backend, deployed on Vercel  
+
+
+
 
 ---
 

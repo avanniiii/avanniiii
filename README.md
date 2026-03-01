@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋 I'm Avani Agarwal</h1>
-<h3 align="center">AI & Machine Learning Engineer | Computer Vision | NLP | Full Stack Developer</h3>
+# Hi 👋 I'm Avani Agarwal  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avanniiii&label=Profile%20Views&color=8A2BE2&style=flat" />
-</p>
+### Software Engineer in Progress | AI/ML Enthusiast | Full-Stack Developer  
+
+🎓 B.E. Computer Engineering @ Thapar Institute of Engineering & Technology  
+📊 CGPA: 9.28 / 10  
+💡 Passionate about building intelligent systems that solve real-world problems  
 
 ---
 
 ## 🚀 About Me
 
 ```python
-class Avani:
+class AvaniAgarwal:
     def __init__(self):
-        self.role = "AI Engineer in Progress"
+        self.role = "Software Engineer | AI/ML Enthusiast"
         self.education = "B.E. Computer Engineering @ TIET"
         self.cgpa = "9.28/10"
-        self.current_research = "Synthetic Data Generation using Stable Diffusion"
-        self.interests = ["AI/ML", "Computer Vision", "NLP", "System Design"]
-        self.motto = "Build systems that create real-world impact."
-
-## 🧠 Current Focus
-
-- Learning LLM Fine-tuning
-- Exploring MLOps
-- Building scalable AI systems
+        self.specialization = ["Machine Learning", "Full-Stack Development", "NLP"]
+        self.current_focus = ["LLM Fine-Tuning", "MLOps", "Scalable AI Systems"]
+        self.motto = "Engineering intelligent systems that create real-world impact."

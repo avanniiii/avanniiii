@@ -24,7 +24,7 @@ class Avani:
         self.motto       = "Don't just build models. Build systems that scale."
 ```
 
-- 🔬 **Research Intern** — AI-based Insulator Fault Detection  
+- 🔬 **Research** — AI-based Insulator Fault Detection  
 - 🏆 **Flipkart Grid 7.0** — National Semi-Finalist  
 - 📊 **Deloitte Australia** — Data Analytics Virtual Intern  
 - 💡 Strong foundation in DSA, OS, DBMS & Machine Learning  

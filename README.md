@@ -18,3 +18,9 @@ class Avani:
         self.current_research = "Synthetic Data Generation using Stable Diffusion"
         self.interests = ["AI/ML", "Computer Vision", "NLP", "System Design"]
         self.motto = "Build systems that create real-world impact."
+
+## 🧠 Current Focus
+
+- Learning LLM Fine-tuning
+- Exploring MLOps
+- Building scalable AI systems

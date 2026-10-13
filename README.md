@@ -2,7 +2,7 @@
 
 # Hi there, I'm Avani Agarwal 👋
 
-### AI & Machine Learning Engineer · Computer Vision · NLP · Full Stack
+### DSA Enthusiast · Full Stack Developer · React Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=avanniiii&label=Profile%20Views&color=8A2BE2&style=flat)](https://github.com/avanniiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avani-agarwal-78a0732b3/)
@@ -17,10 +17,9 @@
 ```python
 class Avani:
     def __init__(self):
-        self.role        = "AI Engineer in Progress"
-        self.education   = "B.E. Computer Engineering @ TIET  |  CGPA: 9.28 / 10"
-        self.research    = "Synthetic Data Generation using Stable Diffusion"
-        self.interests   = ["Computer Vision", "NLP", "System Design", "ML Deployment"]
+        self.role        = "Software Engineer in Progress"
+        self.education   = "B.E. Computer Engineering @ TIET  |  CGPA: 9.30 / 10"
+        self.interests   = ["DSA Enthusiast","Full Stack Developer","React Developer"]
         self.motto       = "Don't just build models. Build systems that scale."
 ```
 
@@ -45,7 +44,6 @@ class Avani:
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -54,21 +52,12 @@ class Avani:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Databases & Tools**
 
@@ -76,7 +65,6 @@ class Avani:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
